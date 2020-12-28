@@ -145,7 +145,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/cdn.c3voc.de\/ambientlounge.mp3"
+                 "value":"stream:rc3loungeambient"
                 }],
          "type":"tilelayer",
          "visible":true,
